@@ -1,0 +1,7 @@
+#ifndef _MySTL_INTERNAL_CONFIG_H
+#define _MySTL_INTERNAL_CONFIG_H
+
+#define __STL_BEGIN_NAMESPACE namespace MySTL {
+#define __STL_END_NAMESPACE }
+
+#endif // !_MySTL_INTERNAL_CONFIG_H
